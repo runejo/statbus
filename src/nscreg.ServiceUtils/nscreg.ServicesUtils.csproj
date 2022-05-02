@@ -4,7 +4,7 @@
     <RuntimeFrameworkVersion>2.0.0</RuntimeFrameworkVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="PeterKottas.DotNetCore.WindowsService" Version="1.0.20" />
+    <PackageReference Include="PeterKottas.DotNetCore.WindowsService" Version="2.0.12" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\nscreg.Data\nscreg.Data.csproj" />
