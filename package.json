@@ -110,7 +110,7 @@
     "prop-types": "^15.6.2",
     "react-addons-perf": "^15.4.2",
     "react-addons-test-utils": "^15.6.2",
-    "react-hot-loader": "^3.1.3",
+    "react-hot-loader": "^4.13.0",
     "redux-logger": "^3.0.6",
     "semantic-ui-css": "^2.2.14",
     "style-loader": "^0.20.2",
