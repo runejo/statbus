@@ -71,7 +71,7 @@
     "babel-plugin-transform-react-constant-elements": "^6.23.0",
     "babel-plugin-transform-react-inline-elements": "^6.22.0",
     "babel-preset-env": "^1.7.0",
-    "babel-preset-jest": "^22.4.4",
+    "babel-preset-jest": "^24.1.0",
     "babel-preset-react": "^6.24.1",
     "browser-sync": "^2.23.6",
     "copy-dir": "^0.3.0",
