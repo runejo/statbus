@@ -1,6 +1,8 @@
 # Statbus
 
-Statistical Business Registry (SBR)
+Statistical Business Register (SBR)
+
+Statbus is not currently available. We expect it to be back by the end of August 2022
 
 ## tools stack
 
